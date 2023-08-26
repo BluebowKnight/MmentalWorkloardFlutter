@@ -1,0 +1,22 @@
+[
+    {
+    "ParticipantNumber": "1",
+    "Month": "Jun",
+    "Day": "29",
+    "Year": "2020",
+    "SleepRating": "3"
+},
+{
+    "ParticipantNumber": "1",
+    "Month": "Jun",
+    "Day": "30",
+    "Year": "2020",
+    "SleepRating": "4"
+},
+{
+    "ParticipantNumber": "1",
+    "Month": "Jul",
+    "Day": "01",
+    "Year": "2020",
+    "SleepRating": "3"
+}]

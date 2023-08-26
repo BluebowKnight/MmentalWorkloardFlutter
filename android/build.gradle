@@ -1,0 +1,43 @@
+buildscript {
+    ext.kotlin_version = '1.6.10'
+    repositories {
+        google()
+        mavenCentral()
+    }
+    /*def localProperies = new Properties()
+    def localPropertiesFile = rootProject.file('local.properties')
+    if(localPropertiesFile.exists()){
+        localPropertiesFile.withReader('UTF-8'){
+            reader->localProperies.load(reader)
+        }
+    }
+    def flutterRoot = localProperies.getProperty('flutter.sdk')
+    if(flutterRoot == null){
+        throw new FileNotFoundException("flutter not found")
+    }*/
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.2.1'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        /*compileOnly files("$flutterRoot/bin/cache/artifacts/engine/android-arm/flutter/jar")
+        compileOnly 'androidx.annotation:annotation:1.6.0'*/
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(':app')
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,482 @@
+[
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "10:00:18",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "10:50:15",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "11:24:23",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "11:55:55",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "12:26:36",
+        "MWLRating": "4"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "12:59:44",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "13:31:49",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "14:04:32",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "14:42:15",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "15:14:46",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "15:56:03",
+        "MWLRating": "4"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "16:28:46",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "17:30:58",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "18:32:15",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "19:35:18",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "20:38:23",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "21:45:49",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "29",
+        "Year": "2020",
+        "Time": "22:47:41",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "07:16:23",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "09:08:34",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "09:40:38",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "10:12:06",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "10:44:06",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "11:15:14",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "11:46:46",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "12:19:46",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "12:58:44",
+        "MWLRating": "3"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "13:36:52",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "14:11:14",
+        "MWLRating": "5"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "14:43:19",
+        "MWLRating": "5"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "15:15:54",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "15:47:36",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "16:18:07",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "17:20:09",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "18:21:24",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "19:22:46",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "20:24:45",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "21:27:29",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jun",
+        "Day": "30",
+        "Year": "2020",
+        "Time": "22:41:01",
+        "MWLRating": "4"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "07:01:54",
+        "MWLRating": "5"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "08:03:54",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "08:36:03",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "09:09:08",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "09:46:46",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "10:19:22",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "10:52:58",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "11:23:55",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "11:56:22",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "12:27:09",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "12:57:55",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "13:29:37",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "14:03:14",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "14:42:21",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "15:14:05",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "17:14:12",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "18:14:43",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "19:17:16",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "20:24:45",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "21:26:02",
+        "MWLRating": "2"
+    },
+    {
+        "ParticipantNumber": "1",
+        "Month": "Jul",
+        "Day": "01",
+        "Year": "2020",
+        "Time": "22:28:24",
+        "MWLRating": "2"
+    }
+]
